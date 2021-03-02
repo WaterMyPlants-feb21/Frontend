@@ -50,7 +50,7 @@ export default function loginForm(props) {
             type='phoneNumber' 
             value={values.phone} 
             onChange={onChange} 
-            placeholder='( )   -    '
+            placeholder=''
           />
         </label>
 
